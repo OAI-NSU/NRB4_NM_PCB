@@ -344,24 +344,24 @@ DocumentPath=Project Outputs for neuro_module\Design Rule Check - neuro_module.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalOrganizationName
-Value=НГУ
+Name=GlobalProjectRevision
+Value=v1.0
 
 [Parameter2]
-Name=GlobalProjectName
-Value=
+Name=GlobalProjectNumber
+Value=ЮМПД.хххххх.ххх
 
 [Parameter3]
 Name=GlobalProjectName1
-Value=
+Value=Норби-4 НМ
 
 [Parameter4]
-Name=GlobalProjectNumber
+Name=GlobalProjectName
 Value=
 
 [Parameter5]
-Name=GlobalProjectRevision
-Value=v1.0
+Name=GlobalOrganizationName
+Value=НГУ
 
 [Configuration1]
 Name=Default Configuration
