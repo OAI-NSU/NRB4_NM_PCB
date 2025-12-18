@@ -339,6 +339,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSCBPUPX
 
+[Document18]
+DocumentPath=neuro_module.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ASSMAKWK
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for neuro_module\Design Rule Check - neuro_module.html
 DItemRevisionGUID=
@@ -407,7 +424,9 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
+Wir_PrintColor=0
+Ldr_PrintColor=0
 
 [Generic_EDE]
 OutputDir=
